@@ -21,49 +21,6 @@ body {
   gap: 100px;
 }
 
-ul {
-  color: #e7e5e4;
-  list-style-type: none;
-  display: flex;
-  align-items: center;
-  gap: 100px;
-  padding: 0;
-}
-
-ul li,
-.order-btn {
-  text-transform: uppercase;
-  font-size: 1.2em;
-  font-family: inherit;
-  letter-spacing: 0.04em;
-  font-weight: 600;
-}
-
-ul li:hover {
-  cursor: pointer;
-  translate: 3px;
-  color: #f97316;
-}
-
-.selected {
-  color: #f97316;
-}
-
-.main-content {
-  color: #e7e5e4;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  align-items: start;
-}
-
-.main-content p {
-  width: 40%;
-  font-weight: 500;
-  line-height: 1.5em;
-  font-style: italic;
-}
-
 .order-btn {
   background-color: #ea580c;
   border: 0;

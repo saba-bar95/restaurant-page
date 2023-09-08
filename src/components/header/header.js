@@ -1,5 +1,9 @@
+import "./header.css";
+
 export default function makeHeader() {
   const div = document.createElement("div");
+  div.setAttribute("id", "header");
+  div.classList.add("header");
   const nav = document.createElement("nav");
   const ul = document.createElement("ul");
   const listArr = ["home", "menu", "contact", "order online"];
@@ -23,6 +27,5 @@ export default function makeHeader() {
     list.textContent = el;
     ul.appendChild(list);
   });
-
   return div;
 }

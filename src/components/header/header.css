@@ -1,0 +1,27 @@
+#header ul {
+  color: #e7e5e4;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 100px;
+  padding: 0;
+}
+
+#header ul li,
+.order-btn {
+  text-transform: uppercase;
+  font-size: 1.2em;
+  font-family: inherit;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+
+#header ul li:hover {
+  cursor: pointer;
+  translate: 3px;
+  color: #f97316;
+}
+
+#header .selected {
+  color: #f97316;
+}
