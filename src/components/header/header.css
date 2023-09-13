@@ -1,10 +1,35 @@
+@font-face {
+  font-family: "Morris";
+  src: url(./MorrisRomanBlack.otf);
+}
+
 #header ul {
   color: #e7e5e4;
   list-style-type: none;
   display: flex;
   align-items: center;
-  gap: 100px;
+  gap: 60px;
   padding: 0;
+  text-align: center;
+}
+
+#header .header-container {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#header h1 {
+  font-size: 2.2em;
+  font-family: "Morris";
+  color: #94a3b8;
+}
+
+#header h1:hover {
+  font-size: 2.5em;
+  transition-duration: 1s;
 }
 
 #header ul li,
