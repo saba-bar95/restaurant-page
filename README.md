@@ -13,7 +13,7 @@ On the restaurant page, there are three tabs with relevant content. By clicking 
 - NPM
 - Webpack
 
-### [Live URL](https://saba-bar95.github.io/tic-tac-toe/)
+### [Live URL](https://saba-bar95.github.io/restaurant-page/)
 
 ### Author
 
