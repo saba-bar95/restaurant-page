@@ -1,4 +1,4 @@
-### Project: Tic Tac Toe
+### Project: Restaurant Page
 
 ### This project is done as part of the [Odin course](https://www.theodinproject.com/dashboard)
 
