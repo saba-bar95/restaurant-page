@@ -18,4 +18,3 @@ On the restaurant page, there are three tabs with relevant content. By clicking 
 ### Author
 
 - [GitHub](https://github.com/saba-bar95)
-- [Coderbyte](https://coderbyte.com/profile/gegewp)
