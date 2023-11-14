@@ -2,8 +2,7 @@
 
 ### This project is done as part of the [Odin course](https://www.theodinproject.com/dashboard)
 
-On the restaurant page, there are three tabs with relevant content. By clicking on it, you can switch them. NPM, webpack, and ES6 Modules were used to meet the requirements.
-
+On the restaurant page, there are three tabs with relevant content. By clicking on it, you can switch them. 
 ### Build with
 
 - HTML
